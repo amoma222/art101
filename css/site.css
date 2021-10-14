@@ -1,1 +1,23 @@
+h1 {
+    color: pink;
+    font-size: 300%
+}
 
+h2 {color: magenta;
+font-size: 200%
+}
+
+ol {
+    font-family: ;
+    text-indent: 35px;
+    margin indent: 10px
+}
+
+#content {
+    background-color: #ffb6cl;
+    width: 300px;
+    min-height: 300px;
+    padding: 8px;
+    margin: 8px;
+    border: solid 3px #FF0D86;
+    font-size: 30px;
