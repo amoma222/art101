@@ -4,20 +4,20 @@ h1 {
 }
 
 h2 {color: magenta;
-font-size: 200%
+font-size: 300%
 }
 
 ol {
-    font-family: /* COMBAK:  */;
+    font-family: fantasy;
     text-indent: 35px;
     margin indent: 10px
 }
 
 #content {
     background-color: #ffb6cl;
-    width: 300px;
-    min-height: 300px;
+    width: 1000px;
+    min-height: 1000px;
     padding: 8px;
     margin: 8px;
-    border: solid 3px #FF0D86;
+    border: solid 1px #FF0D86;
     font-size: 30px;
