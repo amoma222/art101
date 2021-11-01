@@ -6,21 +6,21 @@
 
 
 //Define Variables
- var myTransport = ["car","bus"];
+var myTransport = ["car","bus"];
 
- var myMainRide = {
-   color : "Silver",
-   make : "Ford",
-   model : "Ranger",
-   year : 2001,
-   age : function() {
-     return 2019 - age;
+var myMainRide = {
+      name: "car";
+      color: "Silver";
+      make: "Ford";
+      model: "Ranger";
+      year: 2001
+      age: function() {
+           return 2019 - age;
    }
 
  }
 
 //Output
- document.writeln("Our methods of transportation:" + myTransport + "<br>");
-
- document.writeln("My Main Ride: <pre>",
-    JSON.stringify(myMainRide, null, '\t'), "</pre>");
+document.writeln("Our methods of transportation:" + myTransport + "<br>");
+document.writeln("My Main Ride: <pre>",
+document.writeln(JSON.stringify(myMainRide, null, '\t'), "</pre>");

@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+    font-size: 250;
+    font-family: cursive;
+}
+
+h2 {
+    color: red;
+    font-size: 200%;
+    font-family: cursive;
+}
+
+h3 {
+    color: red;
+    font-size: 150;
+    font-family: cursive;
+}
+
+#content {
+    background-color: #ffb6cl;
+    width: 1000px;
+    min-height: 1000px;
+    padding: 8px;
+    margin: 8px;
+    border: solid 1px #FF0D86;
+    font-size: 30px;
