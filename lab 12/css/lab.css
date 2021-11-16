@@ -1,0 +1,25 @@
+p {
+  color: orange;
+  font: sans-serif;
+}
+
+h1 {
+  color: yellow
+  font: courier;
+}
+
+h2 {
+  color: green
+  font: courier;
+}
+
+#content {
+    background-color: black;
+    width: 500px;
+    min-height: 300px;
+    padding: 5px;
+    margin: 5px;
+    border-solid: 1px;
+      color: white;
+    font-size: 20px;
+    }  
