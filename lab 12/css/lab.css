@@ -1,6 +1,6 @@
 p {
   color: orange;
-  font: sans-serif;
+  font:  courier;
 }
 
 h1 {
@@ -22,4 +22,4 @@ h2 {
     border-solid: 1px;
       color: white;
     font-size: 20px;
-    }  
+    }
